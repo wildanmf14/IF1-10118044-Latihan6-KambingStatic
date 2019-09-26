@@ -1,12 +1,12 @@
 package latihan.kambingStatic;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : Implementasi pada dua class
+ */
 public class KambingStatic {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : Implementasi pada dua class
-     */
+	
 	
 	//class Mamalia{
 	//  public static int jumlahKambing;
